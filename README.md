@@ -27,11 +27,11 @@ The repository is structured as:
 
 ```text
 AI-ML-NETSOL/
-NAVTTC/
-Tasks and exercises following the NAVTTC curriculum
-NetSol/
-Daily class assignments and practice exercises from NetSol Technologies
-README.md
+  NAVTTC/
+    Tasks and exercises following the NAVTTC curriculum
+  NetSol/
+    Daily class assignments and practice exercises from NetSol Technologies
+  README.md
 ```
 
 
