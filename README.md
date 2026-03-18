@@ -23,10 +23,15 @@ The goal of this repository is to organize all coursework, assignments, and hand
 ## 📂 Repository Structure
 
 AI-ML-NETSOL/
+
     NAVTTC/
+    
         Tasks and exercises following the NAVTTC curriculum
+        
     NetSol/
+    
         Daily class assignments and practice exercises from NetSol Technologies
+        
     README.md
 
 
