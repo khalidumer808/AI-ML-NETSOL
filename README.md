@@ -25,10 +25,10 @@ The goal of this repository is to organize all coursework, assignments, and hand
 AI-ML-NETSOL/
 │
 ├── NAVTTC/
-│ └── Tasks and exercises following the NAVTTC curriculum
+│   └── Tasks and exercises following the NAVTTC curriculum
 │
 ├── NetSol/
-│ └── Daily class assignments and practice exercises from NetSol 
+│   └── Daily class assignments and practice exercises from NetSol 
 │
 ├── README.md
 
